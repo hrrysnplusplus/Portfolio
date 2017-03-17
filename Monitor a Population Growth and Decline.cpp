@@ -1,7 +1,6 @@
 /*This program was created by Harrison Dao
 This program predicts a population growth/decline
-It calculates how many years a population will double, if a population is in growth
-and how many years a population will become extinct, if in decline.*/
+It calculates how many years a population will double or go extinct*/
 
 #include <iostream>
 #include <math.h>
